@@ -1,0 +1,21 @@
+#trafficLight {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: black;
+    margin: 0 auto;
+    border: 2px solid black;
+
+  }
+  body{
+    padding-top: 150px;
+  }
+  .rectangle{
+    padding: 20px;
+    width: 220px;
+    height: 200px;
+    background-color: dimgray;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 0 auto;
+  }

@@ -1,0 +1,45 @@
+body{
+    padding-top: 15px;
+}
+div{
+    padding: 10px 0 0 0;
+    width: 1075px;
+    height: 650px;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+}
+li{
+    box-shadow: 1px 1px 4px;
+    padding: 10px 10px 0 10px;
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    height: 280px;
+    display: block;
+    list-style: none;
+    float: left;
+    margin: 0 15px 20px 15px;
+}
+li:hover{
+    box-shadow: 1px 1px 8px;
+}
+ul li:nth-child(3n+1){
+    margin-left: 0px;
+}
+ul li:nth-child(3n){
+    margin-right: 0px;
+}
+li p{
+    padding: 0 10px;
+    text-align: justify;
+    font-size: 0.95rem;
+}
+a{
+    font-size: 1.3rem;
+    color: black;
+    text-decoration: none;
+
+}
+hr{
+    opacity: 0.2;
+}

@@ -1,0 +1,50 @@
+#lightRed, #lightYellow, #lightGreen {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: black;
+    margin: 10px auto;
+    border: 2px solid black;
+  }
+  body{
+    padding-top: 60px;
+  }
+  .rectangle{
+    padding-top: 14px;
+    width: 200px;
+    height: 514px;
+    background-color: dimgray;
+    border: 5px solid black;
+    border-radius: 50px;
+    margin: 0 auto;
+  }
+  button{
+    margin-left: 10px;
+  }
+  .buttons{
+    text-align: center;
+    padding-top: 20px;
+    width: 350px;
+    height: 400px;
+    background-color: #f8f8f8;
+    margin-left: 150px;
+    float: left;
+  }
+  #mode{
+    text-transform: uppercase;
+    color: red;
+  }
+  .discription{
+    box-shadow: 1px 1px;
+    padding: 10px;
+    text-align: left;
+    width: 280px;
+    height: 250px;
+    margin: 50px auto;
+    background-color: white;
+  }
+  .box{
+
+    width: 1500px;
+    margin: 0 auto;
+  }
