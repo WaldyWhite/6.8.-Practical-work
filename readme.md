@@ -1,17 +1,17 @@
-# <p align='center'>Принципы работы JS</p>
+# <p align='center'>JS basics</p>
 
-<p align='center'>Разработан в качестве практического задания</p>
+<p align='center'>Designed as a practical task</p>
 
 ***
-## Задания по JS
-- Стартовая страница
-- Привет, мир!
-- Подсказка
-- Светофор
-- Ввод текста
-- Перехват формы
-- Светофор модифицировано
-## Используемые технологии
+## JS assignments
+- Start page
+- Hello, World!
+- Prompt
+- Traffic light
+- Text input
+- Shape interception
+- Traffic light modified
+## Technologies used
 
 * HTML
 
@@ -19,6 +19,6 @@
 
 * JS
 
-## Как открыть/запустить
+## How to open/run
 
-Зайти в папку сайта task-6.8.1 — Стартовая страница c  файловом index.html, кликнуть 2 раза по файлу index.html.
+Go to the site folder task-6.8.1 - Start page in the index.html file, double-click on the index.html file.
