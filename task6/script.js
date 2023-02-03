@@ -80,7 +80,6 @@ function reset(){
 
     count = 0;
     manuel = true;
-    console.log(count)
 };
 
 document.querySelector('#start').addEventListener('click', start);
