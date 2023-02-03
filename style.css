@@ -1,35 +1,35 @@
 body{
     padding-top: 15px;
 }
-div{
+.content{
     padding: 10px 0 0 0;
-    width: 1075px;
-    height: 650px;
+    width: 1130px;
+    height: 642px;
     margin: 0 auto;
     background-color: #f8f8f8;
 }
-li{
+.box{
     box-shadow: 1px 1px 4px;
     padding: 10px 10px 0 10px;
     text-align: center;
     background-color: white;
     width: 300px;
     height: 280px;
-    display: block;
-    list-style: none;
     float: left;
     margin: 0 15px 20px 15px;
+
 }
-li:hover{
+.box:hover{
     box-shadow: 1px 1px 8px;
 }
-ul li:nth-child(3n+1){
-    margin-left: 0px;
+li:nth-child(3n+1){
+    margin-left: 0;
 }
-ul li:nth-child(3n){
-    margin-right: 0px;
+li:nth-child(3n){
+    margin-right: 0;
 }
-li p{
+
+.box p{
     padding: 0 10px;
     text-align: justify;
     font-size: 0.95rem;
@@ -42,4 +42,9 @@ a{
 }
 hr{
     opacity: 0.2;
+}
+li{
+    list-style: none;
+    display: block;
+
 }
